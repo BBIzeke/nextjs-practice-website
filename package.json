@@ -1,33 +1,18 @@
 {
-<<<<<<< HEAD
-  "name": "next-13-crash",
+  "name": "next_13_crash",
   "version": "0.1.0",
-=======
->>>>>>> e1f0c607ba4e3d6ac49b1d32d6439ef65183a31e
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-<<<<<<< HEAD
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.4.13",
+    "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "^4.10.1"
-=======
-    "start": "next start"
-  },
-  "dependencies": {
-    "date-fns": "^2.30.0",
-    "gray-matter": "^4.0.3",
-    "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "remark": "^14.0.3",
-    "remark-html": "^15.0.2"
->>>>>>> e1f0c607ba4e3d6ac49b1d32d6439ef65183a31e
+    "react-icons": "^4.8.0",
+    "uuid": "^9.0.0"
   }
 }
